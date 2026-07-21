@@ -32,12 +32,4 @@ This project presents the UML Class Diagram of a Library Management System. The 
 - Librarian issues and returns books.
 - Books belong to Categories.
 - Books can be Reserved.
-- Late returns generate Fines.
-
-## Tools Used
-- draw.io
-- GitHub
-
-## Author
-Niraja Tammireddi
-B.Tech - Computer Science and System Engineering
+- Late returns generate Fine.
